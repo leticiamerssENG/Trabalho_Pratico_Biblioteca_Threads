@@ -1,5 +1,11 @@
 # Trabalho_Pratico_Biblioteca_Threads
+
 Projeto apresentado para a Disciplina C012 - Sistemas Operacionais
+
+Integrantes:
+
+- Ana Paula Serafim de Góis;
+- Letícia Vitória Merss Moreira.
 
 Neste projeto foram criadas três Threads, cada uma responsável por simular a temperatura de um sensor em uma rede de Internet das Coisas (IoT); 
 • Cada sensor de tempos em tempos gera uma temperatura aleatória, que varia entre 30 e 40 C°; 
